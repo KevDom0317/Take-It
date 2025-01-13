@@ -1,6 +1,8 @@
 # Take-It
 Proyecto integrador, aplicación para eventos.
 
+Es la app perfecta para ti, donde encontrarás una amplia variedad de eventos. Podrás acceder de manera rápida, sencilla y dar seguimiento a los eventos en los que participes
+
 Presentación del proyecto Take It
 https://www.canva.com/design/DAGSef4-JsU/S6YdkJ9h6yS5z4m4CgDYCw/edit?utm_content=DAGSef4-JsU&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton 
 
