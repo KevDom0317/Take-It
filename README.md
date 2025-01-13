@@ -7,3 +7,7 @@ https://www.canva.com/design/DAGSef4-JsU/S6YdkJ9h6yS5z4m4CgDYCw/edit?utm_content
 Figma de Arquitectura, User Flow y Mockups
 https://www.figma.com/design/OScZPEYKUCubmUIYNYAW3c/Take-it?node-id=0-1&t=vjpeeN016b1ekT2R-1 
 
+Integrantes:
+Cabrera Arcos Jose Arturo
+Escalante Aguilar Maricarmne
+Padilla Valdez Kevin
